@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @SyedJawadnaqvi
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning at saylani mass it trainin
 
 <!---
